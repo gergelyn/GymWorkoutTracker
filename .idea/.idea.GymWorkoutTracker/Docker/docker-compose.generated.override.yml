@@ -1,0 +1,21 @@
+# This is a generated file. Not intended for manual editing.
+services:
+  gymworkouttracker.api:
+    build:
+      context: "F:\\Projects\\NET\\GymWorkoutTracker"
+      dockerfile: "GymWorkoutTracker.Api/Dockerfile"
+      target: "base"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net9.0/GymWorkoutTracker.Api.dll"
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Development"
+      DOTNET_USE_POLLING_FILE_WATCHER: "true"
+    image: "gymworkouttracker.api:dev"
+    ports: []
+    volumes:
+    - "F:\\Projects\\NET\\GymWorkoutTracker\\GymWorkoutTracker.Api:/app:rw"
+    - "F:\\Projects\\NET\\GymWorkoutTracker:/src:rw"
+    - "C:\\Users\\presz\\.nuget\\packages:/home/app/.nuget/packages"
+    working_dir: "/app"
