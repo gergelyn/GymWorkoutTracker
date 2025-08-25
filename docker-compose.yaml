@@ -4,4 +4,38 @@
     build:
       context: ./src
       dockerfile: GymWorkoutTracker.Api/Dockerfile
-
+    ports:
+      - "8080:80"
+      - "8081:443"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=${ASPNETCORE_ENVIRONMENT}
+      - ConnectionStrings__DefaultConnection=Host=gymworkouttracker.postgres;Port=${POSTGRES_PORT};Database=${POSTGRES_DB};username=${POSTGRES_USER};Password=${POSTGRES_PASSWORD}
+    depends_on:
+      gymworkouttracker.postgres:
+        condition: service_healthy
+    networks:
+      - gymworkouttracker.network
+    restart: unless-stopped
+  gymworkouttracker.postgres:
+    image: postgres:latest
+    ports:
+      - "${POSTGRES_PORT}:5432"
+    environment:
+      - POSTGRES_DB=${POSTGRES_DB}
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - gymworkouttracker.network
+    restart: unless-stopped
+networks:
+  gymworkouttracker.network:
+    driver: bridge
+volumes:
+  pgdata:
