@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "net9.0": {
+      "GymWorkoutTracker.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "GymWorkoutTracker.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GymWorkoutTracker.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GymWorkoutTracker.Application.dll": {}
+        }
+      },
       "GymWorkoutTracker.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -15,6 +28,11 @@
     }
   },
   "libraries": {
+    "GymWorkoutTracker.Application/1.0.0": {
+      "type": "project",
+      "path": "../GymWorkoutTracker.Application/GymWorkoutTracker.Application.csproj",
+      "msbuildProject": "../GymWorkoutTracker.Application/GymWorkoutTracker.Application.csproj"
+    },
     "GymWorkoutTracker.Domain/1.0.0": {
       "type": "project",
       "path": "../GymWorkoutTracker.Domain/GymWorkoutTracker.Domain.csproj",
@@ -23,6 +41,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "GymWorkoutTracker.Application >= 1.0.0",
       "GymWorkoutTracker.Domain >= 1.0.0"
     ]
   },
@@ -59,6 +78,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "F:\\Projects\\NET\\GymWorkoutTracker\\src\\GymWorkoutTracker.Application\\GymWorkoutTracker.Application.csproj": {
+              "projectPath": "F:\\Projects\\NET\\GymWorkoutTracker\\src\\GymWorkoutTracker.Application\\GymWorkoutTracker.Application.csproj"
+            },
             "F:\\Projects\\NET\\GymWorkoutTracker\\src\\GymWorkoutTracker.Domain\\GymWorkoutTracker.Domain.csproj": {
               "projectPath": "F:\\Projects\\NET\\GymWorkoutTracker\\src\\GymWorkoutTracker.Domain\\GymWorkoutTracker.Domain.csproj"
             }

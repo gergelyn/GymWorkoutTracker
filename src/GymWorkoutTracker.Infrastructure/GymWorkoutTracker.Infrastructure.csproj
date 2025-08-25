@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\GymWorkoutTracker.Domain\GymWorkoutTracker.Domain.csproj" />
+    <ProjectReference Include="..\GymWorkoutTracker.Application\GymWorkoutTracker.Application.csproj" />
   </ItemGroup>
 
   <ItemGroup>

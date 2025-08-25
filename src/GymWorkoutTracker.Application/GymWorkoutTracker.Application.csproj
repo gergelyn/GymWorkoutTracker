@@ -13,4 +13,8 @@
     <Folder Include="Validation\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\GymWorkoutTracker.Domain\GymWorkoutTracker.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -10,7 +10,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ff482c5-b9ff-404e-a392-1e916627cece" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Domain/GymWorkoutTracker.Domain.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Domain/GymWorkoutTracker.Domain.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/GymWorkoutTracker.Api.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/GymWorkoutTracker.Api.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/GymWorkoutTracker.Application.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/GymWorkoutTracker.Application.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/Debug/net9.0/GymWorkoutTracker.Application.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/Debug/net9.0/GymWorkoutTracker.Application.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/Debug/net9.0/GymWorkoutTracker.Application.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/Debug/net9.0/GymWorkoutTracker.Application.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/GymWorkoutTracker.Application.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/GymWorkoutTracker.Application.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/GymWorkoutTracker.Infrastructure.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/GymWorkoutTracker.Infrastructure.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/Debug/net9.0/GymWorkoutTracker.Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/Debug/net9.0/GymWorkoutTracker.Infrastructure.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/Debug/net9.0/GymWorkoutTracker.Infrastructure.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/Debug/net9.0/GymWorkoutTracker.Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/GymWorkoutTracker.Infrastructure.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/GymWorkoutTracker.Infrastructure.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +204,7 @@
       <workItem from="1756137320691" duration="31000" />
       <workItem from="1756137389720" duration="447000" />
       <workItem from="1756137864970" duration="96000" />
-      <workItem from="1756138028771" duration="3553000" />
+      <workItem from="1756138028771" duration="3953000" />
     </task>
     <servers />
   </component>
