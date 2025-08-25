@@ -63,3 +63,10 @@ F:\Projects\NET\GymWorkoutTracker\src\GymWorkoutTracker.Api\obj\Debug\net9.0\ref
 F:\Projects\NET\GymWorkoutTracker\src\GymWorkoutTracker.Api\obj\Debug\net9.0\GymWorkoutTracker.Api.pdb
 F:\Projects\NET\GymWorkoutTracker\src\GymWorkoutTracker.Api\obj\Debug\net9.0\GymWorkoutTracker.Api.genruntimeconfig.cache
 F:\Projects\NET\GymWorkoutTracker\src\GymWorkoutTracker.Api\obj\Debug\net9.0\ref\GymWorkoutTracker.Api.dll
+F:\Projects\NET\GymWorkoutTracker\src\GymWorkoutTracker.Api\bin\Debug\net9.0\GymWorkoutTracker.Application.dll
+F:\Projects\NET\GymWorkoutTracker\src\GymWorkoutTracker.Api\bin\Debug\net9.0\GymWorkoutTracker.Domain.dll
+F:\Projects\NET\GymWorkoutTracker\src\GymWorkoutTracker.Api\bin\Debug\net9.0\GymWorkoutTracker.Infrastructure.dll
+F:\Projects\NET\GymWorkoutTracker\src\GymWorkoutTracker.Api\bin\Debug\net9.0\GymWorkoutTracker.Application.pdb
+F:\Projects\NET\GymWorkoutTracker\src\GymWorkoutTracker.Api\bin\Debug\net9.0\GymWorkoutTracker.Infrastructure.pdb
+F:\Projects\NET\GymWorkoutTracker\src\GymWorkoutTracker.Api\bin\Debug\net9.0\GymWorkoutTracker.Domain.pdb
+F:\Projects\NET\GymWorkoutTracker\src\GymWorkoutTracker.Api\bin\Debug\net9.0\FluentValidation.dll
