@@ -9,13 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ff482c5-b9ff-404e-a392-1e916627cece" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GymWorkoutTracker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GymWorkoutTracker/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.sln" beforeDir="false" afterPath="$PROJECT_DIR$/GymWorkoutTracker.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/rider.project.model.nuget.info" afterDir="false" />
-    </list>
+    <list default="true" id="8ff482c5-b9ff-404e-a392-1e916627cece" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +17,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/GymWorkoutTracker.Domain/Entities/Exercise.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
@@ -187,6 +184,7 @@
       <workItem from="1756137320691" duration="31000" />
       <workItem from="1756137389720" duration="447000" />
       <workItem from="1756137864970" duration="96000" />
+      <workItem from="1756138028771" duration="356000" />
     </task>
     <servers />
   </component>
