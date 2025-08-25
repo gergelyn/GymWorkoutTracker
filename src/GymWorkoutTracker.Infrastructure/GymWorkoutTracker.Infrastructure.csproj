@@ -4,6 +4,14 @@
     <ProjectReference Include="..\GymWorkoutTracker.Domain\GymWorkoutTracker.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Data\Configuration\" />
+    <Folder Include="Data\Migrations\" />
+    <Folder Include="Identity\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
