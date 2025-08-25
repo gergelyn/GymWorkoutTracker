@@ -8,11 +8,65 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ff482c5-b9ff-404e-a392-1e916627cece" name="Changes" comment="" />
+    <list default="true" id="8ff482c5-b9ff-404e-a392-1e916627cece" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GymWorkoutTracker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GymWorkoutTracker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/GymWorkoutTracker.Api.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/GymWorkoutTracker.Api.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/bin/Debug/net9.0/GymWorkoutTracker.Api.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/bin/Debug/net9.0/GymWorkoutTracker.Api.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/bin/Debug/net9.0/GymWorkoutTracker.Api.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/bin/Debug/net9.0/GymWorkoutTracker.Api.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/bin/Debug/net9.0/GymWorkoutTracker.Api.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/bin/Debug/net9.0/GymWorkoutTracker.Api.staticwebassets.endpoints.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/bin/Debug/net9.0/Microsoft.OpenApi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/bin/Debug/net9.0/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/bin/Debug/net9.0/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorko.E5A9C4C1.Up2Date" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.MvcApplicationPartsAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/Debug/net9.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/Debug/net9.0/ref/GymWorkoutTracker.Api.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/Debug/net9.0/refint/GymWorkoutTracker.Api.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/Debug/net9.0/rjsmrazor.dswa.cache.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/Debug/net9.0/rpswa.dswa.cache.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/Debug/net9.0/staticwebassets.build.endpoints.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/Debug/net9.0/staticwebassets.build.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/Debug/net9.0/staticwebassets.build.json.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/GymWorkoutTracker.Api.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/GymWorkoutTracker.Api.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/GymWorkoutTracker.Api.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/rider.project.model.nuget.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.Api/obj/rider.project.restore.info" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
@@ -29,8 +83,12 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Docker.docker-compose.yaml: Compose Deployment.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -41,6 +99,29 @@
   }
 }</component>
   <component name="RunManager" selected="Docker.docker-compose.yaml: Compose Deployment">
+    <configuration name="GymWorkoutTracker.Api" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="AUTO_ATTACH_CHILDREN" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/src/GymWorkoutTracker.Api/GymWorkoutTracker.Api.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="GymWorkoutTracker.Api: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/GymWorkoutTracker.Api/GymWorkoutTracker.Api.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net9.0" />
@@ -72,6 +153,17 @@
       <method v="2">
         <option name="Build" />
       </method>
+    </configuration>
+    <configuration name="GymWorkoutTracker.Api/Dockerfile (1)" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="containerName" value="gymworkouttracker.api" />
+          <option name="contextFolderPath" value="F:\Projects\NET\GymWorkoutTracker" />
+          <option name="sourceFilePath" value="src/GymWorkoutTracker.Api/Dockerfile" />
+        </settings>
+      </deployment>
+      <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
+      <method v="2" />
     </configuration>
     <configuration name="GymWorkoutTracker.Api/Dockerfile" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
       <deployment type="dockerfile">
@@ -120,6 +212,8 @@
     <list>
       <item itemvalue=".NET Launch Settings Profile.GymWorkoutTracker.Api: http" />
       <item itemvalue=".NET Launch Settings Profile.GymWorkoutTracker.Api: https" />
+      <item itemvalue=".NET Project.GymWorkoutTracker.Api" />
+      <item itemvalue="Docker.GymWorkoutTracker.Api/Dockerfile (1)" />
       <item itemvalue="Docker.docker-compose.yaml: Compose Deployment" />
       <item itemvalue="Docker.GymWorkoutTracker.Api/Dockerfile" />
     </list>
@@ -132,7 +226,9 @@
       <option name="presentableId" value="Default" />
       <updated>1756049289133</updated>
       <workItem from="1756049291087" duration="319000" />
-      <workItem from="1756049667602" duration="147000" />
+      <workItem from="1756049667602" duration="2072000" />
+      <workItem from="1756137249015" duration="54000" />
+      <workItem from="1756137320691" duration="31000" />
     </task>
     <servers />
   </component>

@@ -2,6 +2,6 @@
   gymworkouttracker.api:
     image: gymworkouttracker.api
     build:
-      context: .
+      context: ./src
       dockerfile: GymWorkoutTracker.Api/Dockerfile
 

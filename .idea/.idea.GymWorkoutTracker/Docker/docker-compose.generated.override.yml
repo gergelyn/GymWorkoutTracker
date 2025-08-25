@@ -2,7 +2,7 @@
 services:
   gymworkouttracker.api:
     build:
-      context: "F:\\Projects\\NET\\GymWorkoutTracker"
+      context: "F:\\Projects\\NET\\GymWorkoutTracker\\src"
       dockerfile: "GymWorkoutTracker.Api/Dockerfile"
       target: "base"
     command: []
@@ -15,7 +15,7 @@ services:
     image: "gymworkouttracker.api:dev"
     ports: []
     volumes:
-    - "F:\\Projects\\NET\\GymWorkoutTracker\\GymWorkoutTracker.Api:/app:rw"
+    - "F:\\Projects\\NET\\GymWorkoutTracker\\src\\GymWorkoutTracker.Api:/app:rw"
     - "F:\\Projects\\NET\\GymWorkoutTracker:/src:rw"
     - "C:\\Users\\presz\\.nuget\\packages:/home/app/.nuget/packages"
     working_dir: "/app"
