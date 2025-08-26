@@ -10,7 +10,6 @@ services:
     - "dotnet"
     - "/app/bin/Debug/net9.0/GymWorkoutTracker.Api.dll"
     environment:
-      ASPNETCORE_ENVIRONMENT: "Development"
       DOTNET_USE_POLLING_FILE_WATCHER: "true"
     image: "gymworkouttracker.api:dev"
     ports: []

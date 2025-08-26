@@ -5,9 +5,10 @@
       context: ./src
       dockerfile: GymWorkoutTracker.Api/Dockerfile
     ports:
-      - "8080:80"
+      - "9005:80"
       - "8081:443"
     environment:
+      - ASPNETCORE_URLS=http://+:80
       - ASPNETCORE_ENVIRONMENT=${ASPNETCORE_ENVIRONMENT}
       - ConnectionStrings__DefaultConnection=Host=gymworkouttracker.postgres;Port=${POSTGRES_PORT};Database=${POSTGRES_DB};username=${POSTGRES_USER};Password=${POSTGRES_PASSWORD}
     depends_on:
