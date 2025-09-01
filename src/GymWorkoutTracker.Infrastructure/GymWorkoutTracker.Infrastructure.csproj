@@ -6,11 +6,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Data\Configuration\" />
     <Folder Include="Data\Migrations\" />
     <Folder Include="Identity\" />
-    <Folder Include="Repositories\" />
-    <Folder Include="Services\" />
   </ItemGroup>
 
   <ItemGroup>
