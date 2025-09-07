@@ -1,4 +1,5 @@
 ﻿using GymWorkoutTracker.Application.Interfaces.Services;
+using GymWorkoutTracker.Domain.Entities;
 using Microsoft.AspNetCore.Mvc;
 
 namespace GymWorkoutTracker.Api.Controllers;
@@ -33,5 +34,39 @@ public class ExerciseController : ControllerBase
         
         return Ok(exercises);
     }
-    
+
+    [HttpPost]
+    public async Task<IActionResult> CreateExercise([FromBody] Exercise exercise, CancellationToken ct)
+    {
+        await _exerciseService.CreateAsync(exercise, ct);
+        
+        return CreatedAtAction(nameof(GetExercise), new { id = exercise.Id }, exercise);
+    }
+
+    [HttpPut("{id:int}")]
+    public async Task<IActionResult> UpdateExercise(int id, [FromBody] Exercise exercise, CancellationToken ct)
+    {
+        if (id != exercise.Id)
+        {
+            return BadRequest("ID mismatch between route and body");
+        }
+
+        await _exerciseService.UpdateAsync(exercise, ct);
+        
+        return NoContent();
+    }
+
+    [HttpDelete("{id:int}")]
+    public async Task<IActionResult> DeleteExercise(int id, CancellationToken ct)
+    {
+        try
+        {
+            await _exerciseService.DeleteAsync(id, ct);
+            return NoContent();
+        }
+        catch (KeyNotFoundException)
+        {
+            return NotFound();
+        }
+    }
 }
