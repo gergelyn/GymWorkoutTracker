@@ -1,3 +1,4 @@
+using GymWorkoutTracker.Infrastructure;
 using GymWorkoutTracker.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 
@@ -10,8 +11,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddInfrastructureServices(builder.Configuration);
 
 var app = builder.Build();
 

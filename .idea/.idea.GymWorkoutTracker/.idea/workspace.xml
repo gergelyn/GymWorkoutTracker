@@ -10,73 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ff482c5-b9ff-404e-a392-1e916627cece" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GymWorkoutTracker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GymWorkoutTracker/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GymWorkoutTracker.sln" beforeDir="false" afterPath="$PROJECT_DIR$/GymWorkoutTracker.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/GymWorkoutTracker.Api.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/GymWorkoutTracker.Api.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/bin/Debug/net9.0/GymWorkoutTracker.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/bin/Debug/net9.0/GymWorkoutTracker.Api.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/bin/Debug/net9.0/GymWorkoutTracker.Api.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/bin/Debug/net9.0/GymWorkoutTracker.Api.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/bin/Debug/net9.0/GymWorkoutTracker.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/bin/Debug/net9.0/GymWorkoutTracker.Api.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/bin/Debug/net9.0/GymWorkoutTracker.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/bin/Debug/net9.0/GymWorkoutTracker.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/bin/Debug/net9.0/GymWorkoutTracker.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/bin/Debug/net9.0/GymWorkoutTracker.Application.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/bin/Debug/net9.0/GymWorkoutTracker.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/bin/Debug/net9.0/GymWorkoutTracker.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/bin/Debug/net9.0/GymWorkoutTracker.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/bin/Debug/net9.0/GymWorkoutTracker.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/bin/Debug/net9.0/GymWorkoutTracker.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/bin/Debug/net9.0/GymWorkoutTracker.Infrastructure.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/bin/Debug/net9.0/GymWorkoutTracker.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/bin/Debug/net9.0/GymWorkoutTracker.Infrastructure.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/Debug/net9.0/GymWorkoutTracker.Api.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/Debug/net9.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/Debug/net9.0/ref/GymWorkoutTracker.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/Debug/net9.0/ref/GymWorkoutTracker.Api.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/Debug/net9.0/refint/GymWorkoutTracker.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/Debug/net9.0/refint/GymWorkoutTracker.Api.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/Debug/net9.0/rjsmrazor.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Api/obj/Debug/net9.0/rjsmrazor.dswa.cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/GymWorkoutTracker.Application.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/GymWorkoutTracker.Application.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/bin/Debug/net9.0/GymWorkoutTracker.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/bin/Debug/net9.0/GymWorkoutTracker.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/bin/Debug/net9.0/GymWorkoutTracker.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/bin/Debug/net9.0/GymWorkoutTracker.Application.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/bin/Debug/net9.0/GymWorkoutTracker.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/bin/Debug/net9.0/GymWorkoutTracker.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/bin/Debug/net9.0/GymWorkoutTracker.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/bin/Debug/net9.0/GymWorkoutTracker.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/Debug/net9.0/GymWorkoutTracker.Application.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/Debug/net9.0/GymWorkoutTracker.Application.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/Debug/net9.0/GymWorkoutTracker.Application.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/Debug/net9.0/GymWorkoutTracker.Application.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/Debug/net9.0/GymWorkoutTracker.Application.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/Debug/net9.0/GymWorkoutTracker.Application.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/Debug/net9.0/GymWorkoutTracker.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/Debug/net9.0/GymWorkoutTracker.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/Debug/net9.0/GymWorkoutTracker.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/Debug/net9.0/GymWorkoutTracker.Application.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/Debug/net9.0/GymWorkoutTracker.Application.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/Debug/net9.0/GymWorkoutTracker.Application.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/Debug/net9.0/ref/GymWorkoutTracker.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/Debug/net9.0/ref/GymWorkoutTracker.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/Debug/net9.0/refint/GymWorkoutTracker.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Application/obj/Debug/net9.0/refint/GymWorkoutTracker.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Domain/GymWorkoutTracker.Domain.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Domain/GymWorkoutTracker.Domain.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Domain/bin/Debug/net9.0/GymWorkoutTracker.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Domain/bin/Debug/net9.0/GymWorkoutTracker.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Domain/bin/Debug/net9.0/GymWorkoutTracker.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Domain/bin/Debug/net9.0/GymWorkoutTracker.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Domain/obj/Debug/net9.0/GymWorkoutTracker.Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Domain/obj/Debug/net9.0/GymWorkoutTracker.Domain.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Domain/obj/Debug/net9.0/GymWorkoutTracker.Domain.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Domain/obj/Debug/net9.0/GymWorkoutTracker.Domain.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Domain/obj/Debug/net9.0/GymWorkoutTracker.Domain.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Domain/obj/Debug/net9.0/GymWorkoutTracker.Domain.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Domain/obj/Debug/net9.0/GymWorkoutTracker.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Domain/obj/Debug/net9.0/GymWorkoutTracker.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Domain/obj/Debug/net9.0/GymWorkoutTracker.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Domain/obj/Debug/net9.0/GymWorkoutTracker.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Domain/obj/Debug/net9.0/GymWorkoutTracker.Domain.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Domain/obj/Debug/net9.0/GymWorkoutTracker.Domain.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Domain/obj/Debug/net9.0/ref/GymWorkoutTracker.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Domain/obj/Debug/net9.0/ref/GymWorkoutTracker.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Domain/obj/Debug/net9.0/refint/GymWorkoutTracker.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Domain/obj/Debug/net9.0/refint/GymWorkoutTracker.Domain.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/Data/ApplicationDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/Data/ApplicationDbContext.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/GymWorkoutTracker.Infrastructure.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/GymWorkoutTracker.Infrastructure.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/bin/Debug/net9.0/GymWorkoutTracker.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/bin/Debug/net9.0/GymWorkoutTracker.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/bin/Debug/net9.0/GymWorkoutTracker.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/bin/Debug/net9.0/GymWorkoutTracker.Application.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/bin/Debug/net9.0/GymWorkoutTracker.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/bin/Debug/net9.0/GymWorkoutTracker.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/bin/Debug/net9.0/GymWorkoutTracker.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/bin/Debug/net9.0/GymWorkoutTracker.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/bin/Debug/net9.0/GymWorkoutTracker.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/bin/Debug/net9.0/GymWorkoutTracker.Infrastructure.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/bin/Debug/net9.0/GymWorkoutTracker.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/bin/Debug/net9.0/GymWorkoutTracker.Infrastructure.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/Debug/net9.0/GymWorkoutTracker.Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/Debug/net9.0/GymWorkoutTracker.Infrastructure.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/Debug/net9.0/GymWorkoutTracker.Infrastructure.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/Debug/net9.0/GymWorkoutTracker.Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/Debug/net9.0/GymWorkoutTracker.Infrastructure.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/Debug/net9.0/GymWorkoutTracker.Infrastructure.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/Debug/net9.0/GymWorkoutTracker.Infrastructure.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/Debug/net9.0/GymWorkoutTracker.Infrastructure.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/Debug/net9.0/GymWorkoutTracker.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/Debug/net9.0/GymWorkoutTracker.Infrastructure.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/Debug/net9.0/GymWorkoutTracker.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/Debug/net9.0/GymWorkoutTracker.Infrastructure.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/Debug/net9.0/GymWorkoutTracker.Infrastructure.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/Debug/net9.0/GymWorkoutTracker.Infrastructure.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/Debug/net9.0/ref/GymWorkoutTracker.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/Debug/net9.0/ref/GymWorkoutTracker.Infrastructure.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/Debug/net9.0/refint/GymWorkoutTracker.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/GymWorkoutTracker.Infrastructure/obj/Debug/net9.0/refint/GymWorkoutTracker.Infrastructure.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +66,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Docker.docker-compose.yaml: Compose Deployment">
+  <component name="RunManager" selected="Docker.docker-compose.yml: Compose Deployment">
     <configuration name="GymWorkoutTracker.Api" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -230,10 +168,10 @@
       <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
       <method v="2" />
     </configuration>
-    <configuration name="docker-compose.yaml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" server-name="Docker">
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" server-name="Docker">
       <deployment type="docker-compose.yml">
         <settings>
-          <option name="sourceFilePath" value="docker-compose.yaml" />
+          <option name="sourceFilePath" value="docker-compose.yml" />
         </settings>
       </deployment>
       <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
@@ -244,7 +182,7 @@
       <item itemvalue=".NET Launch Settings Profile.GymWorkoutTracker.Api: https" />
       <item itemvalue=".NET Project.GymWorkoutTracker.Api" />
       <item itemvalue="Docker.GymWorkoutTracker.Api/Dockerfile (1)" />
-      <item itemvalue="Docker.docker-compose.yaml: Compose Deployment" />
+      <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
       <item itemvalue="Docker.GymWorkoutTracker.Api/Dockerfile" />
     </list>
   </component>
@@ -262,6 +200,7 @@
       <workItem from="1756137389720" duration="447000" />
       <workItem from="1756137864970" duration="96000" />
       <workItem from="1756138028771" duration="36930000" />
+      <workItem from="1757249043716" duration="137000" />
     </task>
     <servers />
   </component>
